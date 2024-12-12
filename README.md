@@ -1,6 +1,6 @@
 # HR_Attrition_Dashboard_PBI
 
-Small Drill through feature is implemented in this dashboard.
+A small Drill-through feature is implemented to visualize Department wise details.
 
 Dashboard Preview =========================================================================================
 
